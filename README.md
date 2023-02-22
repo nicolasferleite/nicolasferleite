@@ -1,5 +1,8 @@
 # 💫 About Me:
-- Brazil <br>- 17 years <br>- I started studying programming in January 2023. <br>- I'm studying HTML5, CSS3 and JavaScript.
+- Brazil <br>
+- 17 years <br>
+- I started studying programming in January 2023. <br>
+- I'm studying HTML5, CSS3 and JavaScript.
 
 
 ## 🌐 Socials:

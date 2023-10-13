@@ -8,9 +8,6 @@
 - 🌐 Passionate about web development
 - 💡 Love a good challenge
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nicolasferleite&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nicolasferleite&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasferleite&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---

@@ -1,4 +1,4 @@
-<h3 style="font-size:0.5em">Hi There! My name is Nicolas Ferreira 👋</h3>
+<h3 style="font-size:1.5em">Hi There! My name is Nicolas Ferreira 👋</h3>
 <hr>
 
 - 🎓 Computer Science Student

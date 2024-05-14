@@ -21,3 +21,8 @@
 [![](https://visitcount.itsvg.in/api?id=nicolasferleite&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<style>
+h1 {
+    border-bottom: none;
+}
+</style>

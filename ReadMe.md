@@ -5,7 +5,6 @@
 - 💡 Love a good challenge
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nicolasferreira6387)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-ferreira-99575b263)
-<hr>
 
 ## My Skills  :rocket: &nbsp;
 <div valign="top"><br>

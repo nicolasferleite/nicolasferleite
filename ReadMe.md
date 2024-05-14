@@ -1,4 +1,4 @@
-<h1>Hi There! My name is Nicolas Ferreira 👋</h1>
+<h1 align="center">Hi There! My name is Nicolas Ferreira 👋</h1>
 
 - 🎓 Computer Science Student
 - 🌐 Passionate about web development

@@ -1,6 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=nicolasferleite&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <h1>Hi There! My name is Nicolas Ferreira 👋</h1>
+<i>Passionate programmer, always learning!</i>
 
 <h2>Technologies</h2>
 <div valign="top"><br>

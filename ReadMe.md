@@ -1,9 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=nicolasferleite&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-<h1 align="center">Hi There! My name is Nicolas Ferreira 👋</h1>
+<h1>Hi There! My name is Nicolas Ferreira 👋</h1>
 
-<h2 align="center">My Skills  :rocket: &nbsp;</h2>
-<div align="center" valign="top"><br>
+<h2>My Skills  :rocket: &nbsp;</h2>
+<div valign="top"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -12,7 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasferleite&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<div align="center"> 
+<div> 
+    <h2> Contacts </h2>
     <a href = "nicolasferreiraleite@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/nicolasferleite/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

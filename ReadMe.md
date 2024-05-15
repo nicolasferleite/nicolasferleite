@@ -10,7 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasferleite&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <div> 
     <h2> Contacts </h2>

@@ -1,13 +1,12 @@
-# Hi There! My name is Nicolas Ferreira 👋
+<h1 align="center">Hi There! My name is Nicolas Ferreira 👋</h1>
 
-- 🎓 Computer Science Student
-- 🌐 Passionate about web development
-- 💡 Love a good challenge
+<div align="center"> 
+    <a href = "nicolasferreiraleite@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/nicolasferleite/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nicolasferreira6387)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolas-ferreira-99575b263)
-
-## My Skills  :rocket: &nbsp;
-<div valign="top"><br>
+<h2 align="center">My Skills  :rocket: &nbsp;</h2>
+<div align="center" valign="top"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />

@@ -2,7 +2,7 @@
 
 <h1>Hi There! My name is Nicolas Ferreira 👋</h1>
 
-<h2>My Skills  :rocket: &nbsp;</h2>
+<h2>Technologies</h2>
 <div valign="top"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />

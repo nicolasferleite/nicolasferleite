@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=nicolasferleite&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=nicolasferleite&color=yellow&style=flat&label=PROFILE+VIEWS&abbreviated=true)
 
 <h2>Hi There! My name is Nicolas Ferreira 👋</h2>
 <i>Passionate programmer, always learning!</i>

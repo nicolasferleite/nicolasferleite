@@ -83,5 +83,5 @@ Me chamo Nícolas Ferreira Leite, tenho 19 anos e sou natural do Ceará. Atualme
 
 ### 📊 Estatísticas
 
-[![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasferleite)](https://github.com/anuraghazra/github-readme-stats)
+![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasferleite=NDCSwift&show_icons=true&theme=tokyonight)
 

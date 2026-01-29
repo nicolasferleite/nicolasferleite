@@ -23,11 +23,19 @@ Me chamo Nícolas Ferreira Leite, tenho 19 anos e sou natural do Ceará. Atualme
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Kotlin" 
+    title="Kotlin"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/kotlin/kotlin-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -52,14 +60,6 @@ Me chamo Nícolas Ferreira Leite, tenho 19 anos e sou natural do Ceará. Atualme
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="BootStrap"
-    title="BootStrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
     align="left" 

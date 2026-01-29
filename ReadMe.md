@@ -39,6 +39,22 @@ Me chamo Nícolas Ferreira Leite, tenho 19 anos e sou natural do Ceará. Atualme
 />
 <img 
     align="left" 
+    alt="FASTAPI"
+    title="FASTAPI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/fastapi/fastapi-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker"
+    title="Docker" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
